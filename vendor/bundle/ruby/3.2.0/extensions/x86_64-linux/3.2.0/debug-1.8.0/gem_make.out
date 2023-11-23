@@ -1,0 +1,19 @@
+current directory: /home/daichi/projects/git-app/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+/home/daichi/.rbenv/versions/3.2.0/bin/ruby -I /home/daichi/.rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /home/daichi/projects/git-app/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231123-128256-94r01q sitelibdir\=./.gem.20231123-128256-94r01q clean
+
+current directory: /home/daichi/projects/git-app/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231123-128256-94r01q sitelibdir\=./.gem.20231123-128256-94r01q
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/daichi/projects/git-app/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231123-128256-94r01q sitelibdir\=./.gem.20231123-128256-94r01q install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20231123-128256-94r01q/debug
+
+current directory: /home/daichi/projects/git-app/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231123-128256-94r01q sitelibdir\=./.gem.20231123-128256-94r01q clean
